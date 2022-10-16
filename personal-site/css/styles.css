@@ -19,6 +19,8 @@ h3 {
     color: #47B5FF;
 }
 
-img {
+/* use classes for multiple items (e.g., .pictures) */
+
+#profile_pic { /* uses id tag, id tags can only be used in one place */
     height: 200px;
 }
