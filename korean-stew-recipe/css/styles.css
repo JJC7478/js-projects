@@ -1,0 +1,29 @@
+a {
+    color: #E5EBB2;
+}
+
+body {
+    background-color: #F8C4B4;
+}
+
+.food_image {
+    width: 50%
+}
+
+h1 {
+    color: #25316D;
+}
+
+hr {
+    background-color: #F8C4B4;
+    border-color: #E5EBB2;
+    border-style: dashed none none;
+    border-width: 4px;
+    height: 0px;
+    width: 90px;
+
+}
+
+li {
+    color: #25316D;
+}
